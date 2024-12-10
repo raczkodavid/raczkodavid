@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!  
+# 👋 Hi, I'm Raczkó Dávid!  
 
 I'm a second-year Computer Science student at **Eötvös Loránd Tudományegyetem (ELTE)** in Hungary, with a passion for creating innovative solutions and continuously expanding my knowledge in software development.  
 
@@ -24,6 +24,6 @@ I also have a deep passion for working with **C#**, particularly in developing d
 
 ## 💡 Fun Fact  
 
-I’m always up for a coding challenge or learning a new tool to expand my development arsenal. Whether it’s building sleek UI designs or debugging tricky logic, I enjoy every step of the development process.  
+I’m always up for a coding challenge or learning a new tool to expand my development arsenal. In the future, my main goal is to become an AI specialist and work on building complex, intelligent solutions that push the boundaries of technology and make a meaningful impact.
 
 Feel free to check out my repositories and get in touch! 😊  
