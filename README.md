@@ -7,7 +7,7 @@ I'm a second-year Computer Science student at **Eötvös Loránd Tudományegyete
 I've gained experience with a variety of programming languages, tools, and frameworks, including:  
 - **Programming Languages**: JavaScript, PHP, C++, C, Java, C#, Python, and (Haskell).  
 - **Desktop Development**: WinForms, Avalonia, WPF.  
-- **Web Development**: HTML, CSS, Bootstrap.  
+- **Web Development**: HTML, CSS, Bootstrap, PHP, Javascript  
 - **Frameworks and Libraries**: Working with responsive design tools and modern UI frameworks.  
 
 ## 🌱 What I’m Working On  
