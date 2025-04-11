@@ -7,14 +7,13 @@ I'm a second-year Computer Science student at **Eötvös Loránd Tudományegyete
 I've gained experience with a variety of programming languages, tools, and frameworks, including:  
 - **Programming Languages**: JavaScript, PHP, C++, C, Java, C#, Python, and (Haskell).  
 - **Desktop Development**: WinForms, Avalonia, WPF.  
-- **Web Development**: HTML, CSS, Bootstrap, PHP, Javascript  
-- **Frameworks and Libraries**: Working with responsive design tools and modern UI frameworks.  
+- **Web Development**: HTML, CSS, Bootstrap, PHP, Javascript, React, Laravel   
 
 ## 🌱 What I’m Working On  
 
-I’m currently focused on my studies and school projects, which keep me busy most of the time. Beyond academics, I have a strong interest in **computer graphics** (using OpenGL with C++), where I enjoy exploring the visual side of programming.  
+I'm currently focused on my university studies and school projects, which take up most of my time. Outside of academics, I have a strong interest in modern, responsive web development, particularly in the server-side and logical aspects. While I’m not a designer, I can implement front-end layouts based on provided designs when needed.
 
-I also have a deep passion for working with **C#**, particularly in developing desktop applications. Looking ahead, I’m excited to expand my skills by learning **ASP.NET** with the **MVC pattern**, diving into web application development.  
+Looking ahead, my goal is to become an AI specialist. To support this, I’m currently building a solid foundation in the necessary mathematics through my coursework.
 
 ## 📚 Interests  
 
