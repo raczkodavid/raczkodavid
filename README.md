@@ -1,28 +1,76 @@
-# 👋 Hi, I'm Raczkó Dávid!  
+# 👨‍💻 Raczkó Dávid | Computer Science Student
 
-I'm a second-year Computer Science student at **Eötvös Loránd Tudományegyetem (ELTE)** in Hungary, with a passion for creating innovative solutions and continuously expanding my knowledge in software development.  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raczkodavid)[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:raczkodavid@gmail.com)
 
-## 🌟 Skills & Experience  
+## 🚀 About Me
 
-I've gained experience with a variety of programming languages, tools, and frameworks, including:  
-- **Programming Languages**: JavaScript, PHP, C++, C, Java, C#, Python, and (Haskell).  
-- **Desktop Development**: WinForms, Avalonia, WPF.  
-- **Web Development**: HTML, CSS, Bootstrap, PHP, Javascript, React, Laravel   
+Versatile Computer Science student at **Eötvös Loránd University (ELTE)** with strong technical skills and hands-on project experience. Passionate about creating efficient, innovative solutions and eager to apply my knowledge in a professional setting.
 
-## 🌱 What I’m Working On  
+## 💻 Technical Skills
 
-I'm currently focused on my university studies and school projects, which take up most of my time. Outside of academics, I have a strong interest in modern, responsive web development, particularly in the server-side and logical aspects. While I’m not a designer, I can implement front-end layouts based on provided designs when needed.
+### 🌐 Web Development
 
-Looking ahead, my goal is to become an AI specialist. To support this, I’m currently building a solid foundation in the necessary mathematics through my coursework.
+- **Frontend**:
 
-## 📚 Interests  
+  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  - ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-- Developing dynamic and responsive applications.  
-- Exploring software architecture and design patterns.  
-- Learning about new technologies and how they shape the future of software engineering.  
+- **Backend**:
+  - ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+  - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+  - ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  - ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-## 💡 Fun Fact  
+### 🧰 Other Programming Languages
 
-I’m always up for a coding challenge or learning a new tool to expand my development arsenal. In the future, my main goal is to become an AI specialist and work on building complex, intelligent solutions that push the boundaries of technology and make a meaningful impact.
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-Feel free to check out my repositories and get in touch! 😊  
+### 🖥️ Desktop Development
+
+- WinForms, Avalonia, WPF
+
+## 🎓 Education
+
+**BSc in Computer Science** (Expected 2026)  
+Eötvös Loránd University (ELTE), Budapest, Hungary
+
+**Relevant Coursework:**
+
+- 🌐 Client & Server-side Web Development
+- 🗄️ Database Systems & Design
+- 🧮 Algorithms & Computational Complexity
+- 📊 Data Structures & Advanced Programming
+- 💻 Object-Oriented Programming
+
+## 💼 Development Experience
+
+While I don't have formal professional experience, I've developed several real-world projects that have strengthened my skills in:
+
+- Building responsive single-page applications with React and Vue.js
+- Creating RESTful APIs using Laravel and ASP.NET
+- Implementing user authentication systems
+- Working with GraphQL for efficient data querying
+
+## 🔍 What I'm Looking For
+
+I'm eager to join a forward-thinking team where I can apply my technical skills and grow professionally. Open to various roles in software development, including:
+
+- Web application development
+- Software engineering
+- Backend systems
+- Desktop application development
+- Learning new technologies in a collaborative environment
+
+## 📫 Let's Connect!
+
+I'm always open to discussing new projects, job opportunities, or collaboration. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raczkodavid)
