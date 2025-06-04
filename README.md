@@ -37,6 +37,17 @@ Versatile Computer Science student at **Eötvös Loránd University (ELTE)** wit
 
 - WinForms, Avalonia, WPF
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raczkodavid&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raczkodavid&layout=compact&langs_count=7&theme=react"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raczkodavid&theme=react" alt="raczkodavid" />
+</div>
+
 ## 🎓 Education
 
 **BSc in Computer Science** (Expected 2026)  
