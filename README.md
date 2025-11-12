@@ -6,17 +6,16 @@
 </div>
 
 <div align="center">
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/051/332/433/small_2x/minimalistic-flat-avatar-icon-representing-a-user-profile-or-placeholder-image-with-a-simple-and-clean-design-on-a-transparent-background-png.png" width="150" style="border-radius: 50%;" alt="Profile picture"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRhdGxuNjJ6b3FkZm9ub2s2N3IwZ3BxMTFidTA0dnJ2anV6bWZlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="220" alt="Coding animation">
 </div>
 
 ---
 
 ### About Me
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRhdGxuNjJ6b3FkZm9ub2s2N3IwZ3BxMTFidTA0dnJ2anV6bWZlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="220" alt="Coding animation">
 
 In my final year of BSc Computer Science at Eötvös Loránd University (ELTE). Working as an intern at Bosch. Dedicated to continuous learning via academics, work, and self-study—currently advancing in DevOps. Passionate about clean code and team collaboration. Coding is a hobby; I often watch tech-related videos.
 
-
+---
 
 ### Professional Background
 
