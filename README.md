@@ -31,7 +31,6 @@ In my final year of BSc Computer Science at Eötvös Loránd University (ELTE). 
 - Secured a Bosch internship focused on DevOps.  
 - Built several personal full-stack projects from interest and curiosity.  
 - Achieved **C1 English language certification**.  
-- Continuously improving coding standards and DevOps practices.
 
 ---
 
