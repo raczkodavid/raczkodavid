@@ -13,7 +13,7 @@
 
 ### About Me
 
-I am in my final year pursuing a BSc in Computer Science at Eötvös Loránd University (ELTE). Currently, I am working as an intern at Bosch, where I gain practical experience in the field. I am dedicated to continuous learning through my academic studies, professional work, and self-directed efforts, with a current emphasis on advancing along the DevOps roadmap. I have a strong passion for writing clean, maintainable code and enjoy collaborating with others to achieve shared goals. For me, coding extends beyond a profession—it's a hobby, and I frequently watch educational videos and content related to programming and technology.
+I am in my final year pursuing a BSc in Computer Science at Eötvös Loránd University (ELTE). Currently, I am working as an intern at Bosch, where I gain practical experience in the field. I am dedicated to continuous learning through my academic studies, professional work, and self-directed efforts, with a current emphasis on advancing along the DevOps roadmap. I have a strong passion for writing clean, maintainable code and enjoy collaborating with others to achieve shared goals. For me, coding extends beyond a profession - it's a hobby, and I frequently watch educational videos and content related to programming and technology.
 
 ---
 
